@@ -17,6 +17,23 @@ public class ClockDisplay
     private NumberDisplay hours;
     private NumberDisplay minutes;
     private String displayString;    // simulates the actual display
+    /*
+     * Answers to extra chapter questions:
+     * 
+     * 27) Because 00:00 is the default beginning time
+     * 29) 60 times, by using the method void setTime = 60
+     * 30) private Rectangle window;
+     * 
+     *     window = new Rectangle(4,6);
+     * 31) creates a new clock set at the time specified by the parameters.
+     * 32) Because you're the one setting the time so there's no need to update
+     * 33) 
+     * 34) It allows to create 2 squares, 1 triangle, a circle
+     * 35) 
+     * 36) No
+     * 37)
+     * 
+     */
     
     /**
      * Constructor for ClockDisplay objects. This constructor 
